@@ -1,49 +1,51 @@
-Theorycrafting Think Tank
+# Theorycrafting Tank
+# Balance Druid
 
-Balance Druid
-Abilities
-Spells
+## Abilities
+### Spells
 A brief rundown on spells, fully talented.
-Damage Spells
+#### Damage Spells
+
 Spell Coefficients-Untalented
-•Starfire
+
+- Starfire
 The primary spell for Moonkin DPS. Benefits from Curse of Shadows and takes full advantage of Nature’s
 Grace. Best scaling of any moonkin DPS spell.
-•Wrath
+- Wrath
 Limited by the global cooldown and extremely mana intensive. 2.4 changes with haste will reduce the GCD
 to as low as 1 second, but Nature's Grace procs still do not lower GCDs for subsequent spells.
-•Moonfire
+- Moonfire
 High mana usage, but good DPS
-•Insect Swarm
+- Insect Swarm
 Mana efficient, also significantly reduces damage on the tanks. Loses out at high damage levels because of
 the lower damage coefficient and inability to crit.
-•Hurricane
+- Hurricane
 Helps reduce damage on your tanks (25% slow). Does not stack with Thunderclap or Thunderfury. A
 paladin tank should be able to keep things off of you with just a bit of lead. Damage capped as of 2.3
 Non-DPS Spells
-•Faerie Fire
+- Faerie Fire
 Typically covered by ferals, unless you have points in Improved Faerie Fire. As many balance druids are
 justified a spot because of iFF, this will frequently be part of boss DPS rotations.
-•Cyclone
+- Cyclone
 Though now limited to 20 yards, still a useful PvE CC if used intelligently. Subject to Diminishing Returns in
 PvE as well as PvP, so not a long-term CC ability.
-•Hibernate
+- Hibernate
 Animal CC, quite potent in a limited number of situations. No talentable pushback reduction can catch
 players by surprise if they are used to Control of Nature making CC easier.
-•Entangling Roots
+- Entangling Roots
 Outdoors only, but still a nice (and the only literal) root. Chance to break on damage.
 Spell Rotations
-•IS, SF3
+- IS, SF3
 The most Mana-efficient full rank rotation. For further mana savings, downranking to Starfire rank 8 gives
 the best efficiency.
-•IS MF, SF3
+- IS MF, SF3
 Higher Damage, Higher mana usage.
-•MF, SF4+ and variations
+- MF, SF4+ and variations
 Used with the 2pc t6 bonus and/or high levels of spell haste.
-•MF, Wrath*8 and MF,IS,Wrath*7
+- MF, Wrath*8 and MF,IS,Wrath*7
 High DPS, high mana consumption. Best for brief encounters, those with pushback [1], and when CoS is
 unavailable and not constrained by mana.
-•Mash Starfire
+- Mash Starfire
 Another spell "rotation" acceptable at high levels of haste if debuff slots are scarce. High DPS, reasonably
 high mana consumption.
 To achieve maximum DPS for a given cycle, you should account for latency in your cast bar. Cast bar mods like
