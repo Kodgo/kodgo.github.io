@@ -3,7 +3,7 @@
 ## Vanilla
 
 - Druid 
-  - [Balance Tank](BalanceTank.md)
+  - [Balance Tank](BalanceTank.md) 
 - Hunter
 - Mage
 - Paladin
