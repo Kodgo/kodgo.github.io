@@ -2,41 +2,41 @@
 
 ## Vanilla
 
-Druid 
-Hunter
-Mage
-Paladin
-Priest
-Rogue
-Shaman
-Warlock 
-Warrior
+- Druid 
+- Hunter
+- Mage
+- Paladin
+- Priest
+- Rogue
+- Shaman
+- Warlock 
+- Warrior
 
 ## TBC
 
-Death knight
-Druid 
-Hunter
-Mage
-Paladin
-Priest
-Rogue
-Shaman
-Warlock 
-Warrior
+- Death knight
+- Druid 
+- Hunter
+- Mage
+- Paladin
+- Priest
+- Rogue
+- Shaman
+- Warlock 
+- Warrior
 
 ## WotLK
 
-Death knight
-Druid 
-Hunter
-Mage
-Paladin
-Priest
-Rogue
-Shaman
-Warlock 
-Warrior
+- Death knight
+- Druid 
+- Hunter
+- Mage
+- Paladin
+- Priest
+- Rogue
+- Shaman
+- Warlock 
+- Warrior
 
 
 
