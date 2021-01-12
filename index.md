@@ -3,7 +3,6 @@
 ## Vanilla
 
 - Druid 
-  - [Balance Tank](BalanceTank.md) 
 - Hunter
 - Mage
 - Paladin
@@ -16,7 +15,8 @@
 ## TBC
 
 - Death knight
-- Druid 
+- Druid
+  - [Balance Tank](BalanceTank.md)
 - Hunter
 - Mage
 - Paladin
